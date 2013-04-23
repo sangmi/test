@@ -1,2 +1,1 @@
-test
-====kjgkjb
+mkdir ~/test_github
